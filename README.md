@@ -91,10 +91,10 @@ flutter run
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/acb24266-c56c-4f52-a5e6-5bde3ec225d2" width="300"/>
-  <img src="https://github.com/user-attachments/assets/75f44c94-f586-471b-acef-30d9dc14e320" width="300"/>
-  <img src="https://github.com/user-attachments/assets/116299ad-b4f3-45d9-9e85-8d0c50006606" width="300"/>
-  <img src="https://github.com/user-attachments/assets/e8dacc98-c334-469b-aaee-3ca7d86bac36" width="300"/>
+  <img src="https://github.com/user-attachments/assets/06fb6ccf-eb76-45ed-ae70-bedcb4f00845" width="200"/>
+  <img src="https://github.com/user-attachments/assets/39179655-3f70-4859-a717-94d99599bd10" width="200"/>
+  <img src="https://github.com/user-attachments/assets/17ee8040-97c1-4312-922d-3c8c3accbd24" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3a384265-a8b8-4624-a386-801bdc16267e" width="200"/>
 </p>
 
 ## 🤝 Contributing
